@@ -13,4 +13,4 @@ Since Colab doesn't support multiple ipynb for a single vm, I guess we have to u
 
 We can use Google Drive feature from Colab. However, I'm not sure if running a git repo while syncing with Google Drive is a good idea for version control.
 
-- [ ] 
+- [ ] Y
